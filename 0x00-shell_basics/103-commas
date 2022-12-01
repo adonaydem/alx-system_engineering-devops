@@ -1,1 +1,2 @@
-#!/bin/bash\nls --format=comma -F -a
+#!/bin/bash
+ls --format=comma -F -a
